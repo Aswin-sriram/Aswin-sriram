@@ -1,150 +1,118 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ═══════════════════════════ HERO BANNER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hi%2C%20I'm%20Aswin%20Sriram&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%E2%80%A2%20AI%20%2F%20ML%20Enthusiast%20%E2%80%A2%20Builder&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:6a11cb,100:2575fc&height=300&section=header&text=ASWIN%20SRIRAM&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Agent%20Builder%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=62&descSize=20&stroke=8b5cf6&strokeWidth=1" width="100%" alt="Aswin Sriram"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/Aswin-sriram">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Building+AI+%26+Machine+Learning+projects+%F0%9F%A4%96;Full-stack+app+developer+%F0%9F%92%BB;Always+learning+something+new+%F0%9F%9A%80;Open+to+internships+%26+collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=700&color=A78BFA&center=true&vCenter=true&width=760&height=45&lines=I+build+AI+agents+that+actually+do+things+%F0%9F%A4%96;Turning+raw+data+into+smart+systems+%F0%9F%A7%A0;Python+%E2%80%A2+TypeScript+%E2%80%A2+Machine+Learning;Shipping+ideas+from+0+%E2%86%92+1+%F0%9F%9A%80;Open+to+internships+%26+collaborations+%F0%9F%A4%9D" alt="Typing intro"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aswin-sriram&label=Profile%20views&color=00c6ff&style=for-the-badge" alt="profile views"/>
-  <a href="https://github.com/Aswin-sriram?tab=followers"><img src="https://img.shields.io/github/followers/Aswin-sriram?label=Followers&style=for-the-badge&color=2c5364&logo=github" alt="followers"/></a>
-  <a href="https://github.com/Aswin-sriram?tab=repositories"><img src="https://img.shields.io/github/stars/Aswin-sriram?label=Stars&style=for-the-badge&color=0f2027&logo=github" alt="stars"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Aswin-sriram&label=PROFILE%20VIEWS&color=8b5cf6&style=for-the-badge" alt="views"/>
+  <a href="https://github.com/Aswin-sriram?tab=followers"><img src="https://img.shields.io/github/followers/Aswin-sriram?label=FOLLOWERS&style=for-the-badge&color=6a11cb&logo=github&logoColor=white" alt="followers"/></a>
+  <a href="https://github.com/Aswin-sriram?tab=repositories"><img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-22c55e?style=for-the-badge&logo=rocket&logoColor=white" alt="open to work"/></a>
 </p>
 
----
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+<h2 align="center">⚡ About Me</h2>
 
-## 🧑‍💻 About Me
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340" alt="developer animation"/>
 
-<img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="320" alt="coding animation"/>
+I'm **Aswin Sriram**, a developer from **India 🇮🇳** who loves building **intelligent software**: AI agents, machine-learning pipelines, and smart real-world systems such as traffic management.
 
-```python
-class AswinSriram:
-    def __init__(self):
-        self.role       = "Developer & AI/ML Enthusiast"
-        self.location   = "India 🇮🇳"
-        self.focus      = ["Machine Learning", "Model Training", "App Development"]
-        self.learning   = ["Deep Learning", "LLMs", "Cloud & DevOps"]
-        self.languages  = ["Python", "JavaScript", "Java", "C++"]
-        self.fun_fact   = "I debug faster with a cup of chai ☕"
+I like taking an idea all the way from **research ➜ model ➜ product**, and I'm happy to learn whatever the problem needs.
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something awesome together 🚀")
-
-me = AswinSriram()
-me.say_hi()
-```
-
-- 🔭 Currently working on **AI-powered apps and model training experiments**
-- 🌱 Learning **Deep Learning, LLMs and scalable backends**
-- 👯 Looking to collaborate on **open-source AI / web projects**
-- 💬 Ask me about **Python, ML, and building apps end-to-end**
-- 📫 Reach me at **sriramsriman20052008@gmail.com**
-- ⚡ Fun fact: **I love turning ideas into working products overnight**
+- 🤖 **Building:** autonomous AI agents with *Om_Agentz*
+- 🚦 **Solved:** intelligent traffic management with computer vision and Python
+- 🧠 **Exploring:** LLMs, RAG, fine-tuning and model training
+- 🎮 **Teaching:** *Build-a-Game Lab*, where students learn to code by building 10 games
+- 🌱 **Learning:** MLOps, cloud deployment and system design
+- 💬 **Ask me about:** Python, ML, agents, full-stack apps
+- 📫 **Reach me:** [sriramsriman20052008@gmail.com](mailto:sriramsriman20052008@gmail.com)
 
 <br clear="right"/>
 
----
+<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
+<h2 align="center">🛠️ Tech Arsenal</h2>
 
-## 🛠️ Tech Stack
-
-<h3 align="center">Languages</h3>
+<p align="center"><b>💻 Languages</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,html,css&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,c,html,css&theme=dark" alt="languages"/>
 </p>
 
-<h3 align="center">AI / ML & Data</h3>
+<p align="center"><b>🧠 AI · ML · Data</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=8" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda&theme=dark" alt="ai ml"/>
   <br/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
-<h3 align="center">Frameworks & Tools</h3>
+<p align="center"><b>🌐 Web · Backend · Cloud</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi,django,tailwind,flutter&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,flask,tailwind,mongodb,postgres,firebase&theme=dark&perline=10" alt="web"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,docker,git,github,vscode&perline=8" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=linux,windows,aws,gcp,vercel,postman,figma&perline=8" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,vercel,linux,git,github,vscode,postman,figma&theme=dark&perline=10" alt="tools"/>
 </p>
 
----
-
-## 🚀 Featured Projects
+<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
+<h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/Aswin-sriram/Om_Agentz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aswin-sriram&repo=Om_Agentz&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Aswin-sriram/Intelligent-traffic-management">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aswin-sriram&repo=Intelligent-traffic-management&theme=tokyonight&hide_border=true" />
-  </a>
+  <a href="https://github.com/Aswin-sriram/Om_Agentz"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aswin-sriram&repo=Om_Agentz&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6" width="49%"/></a>
+  <a href="https://github.com/Aswin-sriram/Intelligent-traffic-management"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aswin-sriram&repo=Intelligent-traffic-management&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6" width="49%"/></a>
+  <a href="https://github.com/Aswin-sriram/build-a-game-lab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aswin-sriram&repo=build-a-game-lab&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6" width="49%"/></a>
+  <a href="https://github.com/Aswin-sriram/StyleIN"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aswin-sriram&repo=StyleIN&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6" width="49%"/></a>
 </p>
 
-| Project | Description | Tech |
-|---|---|---|
-| 🤖 **[Om_Agentz](https://github.com/Aswin-sriram/Om_Agentz)** | AI agents project | TypeScript |
-| 🚦 **[Intelligent Traffic Management](https://github.com/Aswin-sriram/Intelligent-traffic-management)** | Smart traffic control system | Python |
-| 🎮 **[Build-a-Game Lab](https://github.com/Aswin-sriram/build-a-game-lab)** | Students type the code of 10 games, run them, and share them | HTML, JS |
-| 👗 **[StyleIN](https://github.com/Aswin-sriram/StyleIN)** | Fashion / style web app | HTML, CSS |
-| 🗳️ **[Election](https://github.com/Aswin-sriram/election)** | Election system project | Python |
-
----
-
-## 📊 GitHub Stats
+<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aswin-sriram&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswin-sriram&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aswin-sriram&theme=tokyonight" width="100%" alt="profile summary"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aswin-sriram&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aswin-sriram&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&count_private=true&include_all_commits=true&rank_icon=github" height="180" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswin-sriram&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&langs_count=8" height="180" alt="top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aswin-sriram&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://streak-stats.demolab.com?user=Aswin-sriram&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="70%" alt="streak"/>
 </p>
 
-## 🏆 GitHub Trophies
-
+<h3 align="center">🏆 Trophies</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aswin-sriram&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-trophies.vercel.app/?username=Aswin-sriram&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies"/>
 </p>
 
----
-
-## 🐍 Contribution Snake
-
+<!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
+<h2 align="center">🐍 Watch My Contributions Get Eaten</h2>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aswin-sriram/Aswin-sriram/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aswin-sriram/Aswin-sriram/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Aswin-sriram/Aswin-sriram/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aswin-sriram/Aswin-sriram/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aswin-sriram/Aswin-sriram/output/github-contribution-grid-snake.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/Aswin-sriram/Aswin-sriram/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
 </p>
 
----
-
-## 🤝 Connect With Me
+<!-- ═══════════════════════════ CONNECT ═══════════════════════════ -->
+<h2 align="center">🤝 Let's Build Something Together</h2>
 
 <p align="center">
-  <a href="mailto:sriramsriman20052008@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Aswin-sriram"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:sriramsriman20052008@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Aswin-sriram"><img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <i>"First, solve the problem. Then, write the code."</i> — John Johnson
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
 </p>
 
-<!-- ===================== FOOTER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,60:6a11cb,100:0d1117&height=140&section=footer&animation=twinkling" width="100%"/>
 </p>
