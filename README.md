@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════ HERO BANNER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:6a11cb,100:2575fc&height=300&section=header&text=ASWIN%20SRIRAM&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%26%20Cloud%20%E2%80%A2%20Applied%20AI&descAlignY=62&descSize=20&stroke=8b5cf6&strokeWidth=1" width="100%" alt="Aswin Sriram"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:6a11cb,100:2575fc&height=300&section=header&text=ASWIN%20SRIRAM&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%E2%80%A2%20Cloud%20%E2%80%A2%20Applied%20AI&descAlignY=62&descSize=20&stroke=8b5cf6&strokeWidth=1" width="100%" alt="Aswin Sriram"/>
 </p>
 
 <p align="center">
