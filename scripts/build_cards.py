@@ -222,9 +222,10 @@ def build_impact():
 
 
 def build_about():
-    w, h = 1200, 330
+    lines = wrap(ABOUT, 21, 560)
+    w, h = 1200, max(330, 150 + len(lines) * 32 + 20)
     body = [title("about", "Hi, I'm Aswin 👋")]
-    for i, line in enumerate(wrap(ABOUT, 21, 560)):
+    for i, line in enumerate(lines):
         body.append(f'  <text x="48" y="{150 + i * 32}" class="sans fade" style="animation-delay:{.3 + i * .08:.2f}s" font-size="21" fill="#c9d1d9">{escape(line)}</text>')
     # terminal window
     tx, ty, tw, th = 660, 40, 500, 250

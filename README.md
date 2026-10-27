@@ -42,8 +42,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aswin-sriram&show_icons=true&theme=github_dark&bg_color=0a0f1a&title_color=22d3ee&icon_color=34d399&text_color=c9d1d9&border_color=1f2a3a&border_radius=16&rank_icon=github" height="170" alt="GitHub stats"/>
-  <img src="https://streak-stats.demolab.com?user=Aswin-sriram&theme=github-dark-blue&background=0A0F1A&border=1F2A3A&stroke=1F2A3A&ring=22D3EE&fire=34D399&currStreakNum=22D3EE&currStreakLabel=22D3EE&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E&border_radius=16" height="170" alt="Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Aswin-sriram&theme=github-dark-blue&background=0A0F1A&border=1F2A3A&stroke=1F2A3A&ring=22D3EE&fire=34D399&currStreakNum=22D3EE&currStreakLabel=22D3EE&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E&border_radius=16" width="62%" alt="Streak"/>
 </p>
 
 <p align="center">
