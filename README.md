@@ -1,11 +1,11 @@
 <!-- ═══════════════════════════ HERO BANNER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:6a11cb,100:2575fc&height=300&section=header&text=ASWIN%20SRIRAM&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Agent%20Builder%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=62&descSize=20&stroke=8b5cf6&strokeWidth=1" width="100%" alt="Aswin Sriram"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:6a11cb,100:2575fc&height=300&section=header&text=ASWIN%20SRIRAM&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20Builder&descAlignY=62&descSize=20&stroke=8b5cf6&strokeWidth=1" width="100%" alt="Aswin Sriram"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/Aswin-sriram">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=700&color=A78BFA&center=true&vCenter=true&width=760&height=45&lines=I+build+AI+agents+that+actually+do+things+%F0%9F%A4%96;Turning+raw+data+into+smart+systems+%F0%9F%A7%A0;Python+%E2%80%A2+TypeScript+%E2%80%A2+Machine+Learning;Shipping+ideas+from+0+%E2%86%92+1+%F0%9F%9A%80;Open+to+internships+%26+collaborations+%F0%9F%A4%9D" alt="Typing intro"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=700&color=A78BFA&center=true&vCenter=true&width=760&height=45&lines=I+build+fast%2C+modern+web+apps+%F0%9F%92%BB;Exploring+AI+%26+Machine+Learning+%F0%9F%A7%A0;Python+%E2%80%A2+TypeScript+%E2%80%A2+Machine+Learning;Shipping+ideas+from+0+%E2%86%92+1+%F0%9F%9A%80;Open+to+internships+%26+collaborations+%F0%9F%A4%9D" alt="Typing intro"/>
   </a>
 </p>
 
@@ -20,16 +20,16 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340" alt="developer animation"/>
 
-I'm **Aswin Sriram**, a developer from **India 🇮🇳** who loves building **intelligent software**: AI agents, machine-learning pipelines, and smart real-world systems such as traffic management.
+I'm **Aswin Sriram**, a developer from **India 🇮🇳** who loves building **real products**: business websites, interactive learning tools, and smart systems that use Python and machine learning.
 
 I like taking an idea all the way from **research ➜ model ➜ product**, and I'm happy to learn whatever the problem needs.
 
-- 🤖 **Building:** autonomous AI agents with *Om_Agentz*
-- 🚦 **Solved:** intelligent traffic management with computer vision and Python
+- 🌾 **Shipped:** a business website for a wholesale grain supplier (*Om_Agentz*, React + TypeScript + Supabase)
+- 🚦 **Building:** an intelligent traffic signal management system in Python
 - 🧠 **Exploring:** LLMs, RAG, fine-tuning and model training
 - 🎮 **Teaching:** *Build-a-Game Lab*, where students learn to code by building 10 games
 - 🌱 **Learning:** MLOps, cloud deployment and system design
-- 💬 **Ask me about:** Python, ML, agents, full-stack apps
+- 💬 **Ask me about:** Python, React, TypeScript, full-stack apps
 - 📫 **Reach me:** [sriramsriman20052008@gmail.com](mailto:sriramsriman20052008@gmail.com)
 
 <br clear="right"/>
@@ -64,10 +64,10 @@ I like taking an idea all the way from **research ➜ model ➜ product**, and I
 <h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
+  <a href="https://github.com/Aswin-sriram/build-a-game-lab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aswin-sriram&repo=build-a-game-lab&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6" width="49%"/></a>
   <a href="https://github.com/Aswin-sriram/Om_Agentz"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aswin-sriram&repo=Om_Agentz&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6" width="49%"/></a>
   <a href="https://github.com/Aswin-sriram/Intelligent-traffic-management"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aswin-sriram&repo=Intelligent-traffic-management&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6" width="49%"/></a>
-  <a href="https://github.com/Aswin-sriram/build-a-game-lab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aswin-sriram&repo=build-a-game-lab&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6" width="49%"/></a>
-  <a href="https://github.com/Aswin-sriram/StyleIN"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aswin-sriram&repo=StyleIN&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6" width="49%"/></a>
+  <a href="https://github.com/Aswin-sriram/election"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aswin-sriram&repo=election&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6" width="49%"/></a>
 </p>
 
 <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
