@@ -78,7 +78,7 @@ I like taking an idea all the way from **research ➜ model ➜ product**, and I
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aswin-sriram&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&count_private=true&include_all_commits=true&rank_icon=github" height="180" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aswin-sriram&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&rank_icon=github" height="180" alt="stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswin-sriram&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&langs_count=8" height="180" alt="top languages"/>
 </p>
 
