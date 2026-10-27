@@ -1,171 +1,153 @@
-<!-- ═══════════════════════════ HERO BANNER ═══════════════════════════ -->
+<!-- ═══════════════════════════ HERO ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:6a11cb,100:2575fc&height=300&section=header&text=ASWIN%20SRIRAM&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%E2%80%A2%20Cloud%20%E2%80%A2%20Applied%20AI&descAlignY=62&descSize=20&stroke=8b5cf6&strokeWidth=1" width="100%" alt="Aswin Sriram"/>
+  <img src="./assets/header.svg" width="100%" alt="Aswin Sriram S, Software Engineer"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aswinsrirams/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=700&color=A78BFA&center=true&vCenter=true&width=780&height=45&lines=Software+Engineer+%40+Home+Ideas+Technologies+%F0%9F%92%BC;Cut+real-time+latency+from+5s+to+0.6s+%E2%9A%A1;Building+Voice+AI%2C+RAG+%26+LLM+systems+%F0%9F%A4%96;Backend+services+for+100%2B+businesses+%F0%9F%8F%A2;IEEE+published+researcher+%F0%9F%93%84" alt="Typing intro"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=760&height=40&lines=Software+Engineer+%40+Home+Ideas+Technologies;Building+Voice+AI%2C+RAG+%26+LLM+pipelines;Real-time+backends+with+WebSockets+%26+Node.js;IEEE+I-SMAC+2025+published+researcher" alt="Typing intro"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aswin-sriram&label=PROFILE%20VIEWS&color=8b5cf6&style=for-the-badge" alt="views"/>
-  <a href="https://www.linkedin.com/in/aswinsrirams/"><img src="https://img.shields.io/badge/LinkedIn-aswinsrirams-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:aswinsriram268@gmail.com"><img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20SWE%20ROLES-22c55e?style=for-the-badge&logo=rocket&logoColor=white" alt="open to work"/></a>
+  <a href="https://www.linkedin.com/in/aswinsrirams/"><img src="https://img.shields.io/badge/LinkedIn-aswinsrirams-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0a0f1a" alt="LinkedIn"/></a>
+  <a href="mailto:aswinsriram268@gmail.com"><img src="https://img.shields.io/badge/Email-aswinsriram268@gmail.com-22d3ee?style=flat-square&logo=gmail&logoColor=white&labelColor=0a0f1a" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Based%20in-Coimbatore,%20India-34d399?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0a0f1a" alt="Location"/>
+  <img src="https://komarev.com/ghpvc/?username=Aswin-sriram&label=Profile%20views&color=22d3ee&style=flat-square&labelColor=0a0f1a" alt="views"/>
 </p>
+
+<br/>
 
 <!-- ═══════════════════════════ IMPACT ═══════════════════════════ -->
-<p align="center">
-  <img src="https://img.shields.io/badge/⚡%20Latency-5s%20→%200.6s%20(~80%25%20faster)-8b5cf6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🏢%20Platform%20users-100%2B%20businesses-2575fc?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/📱%20Play%20Store-700%2B%20downloads-22c55e?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/📄%20IEEE-I--SMAC%202025-f59e0b?style=for-the-badge"/>
-</p>
+<table align="center">
+<tr>
+<td align="center" width="200"><h2>⚡ 80%</h2><sub>lower real-time response latency<br/>(5–6 s → 0.6–1 s)</sub></td>
+<td align="center" width="200"><h2>📱 700+</h2><sub>Play Store downloads<br/>on HIT Learn</sub></td>
+<td align="center" width="200"><h2>📄 IEEE</h2><sub>paper published &amp; presented<br/>at I-SMAC 2025</sub></td>
+<td align="center" width="200"><h2>🎓 2026</h2><sub>B.Tech CSE<br/>Amrita Vishwa Vidyapeetham</sub></td>
+</tr>
+</table>
 
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
-<h2 align="center">⚡ About Me</h2>
+## 👋 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="330" alt="developer animation"/>
+I'm **Aswin Sriram S**, a **Software Engineer** from Coimbatore, India, with about a year of production experience building **backend services, real-time APIs and applied-AI workflows** for a live SaaS platform.
 
-I'm **Aswin Sriram S**, a **Software Engineer** from **Coimbatore, India 🇮🇳** with about a year of production experience building **backend services, real-time APIs and applied-AI workflows** for a SaaS platform used by **100+ businesses**.
+I like profiling slow systems until they're fast, keeping production services healthy, and shipping features across the whole stack, from the database to the mobile screen.
 
-I enjoy hunting down performance problems, keeping production services healthy, and shipping features across the whole stack.
-
-- 💼 **Now:** Software Engineer at **Home Ideas Technologies** (Nov 2025 – present)
-- ⚡ **Proudest win:** cut real-time voice response latency from **~5–6 s to 0.6–1 s**
-- 🤖 **Working with:** RAG / LLM pipelines, Gemini & OpenAI APIs, Voice AI over WebSockets
-- 📄 **Published:** *ClimaStyle* at **IEEE I-SMAC 2025** in Nepal
-- 🎓 **Studying:** B.Tech CSE, **Amrita Vishwa Vidyapeetham** (graduating 2026)
-- 📍 **Open to:** SWE roles, happy to relocate (Bengaluru · Hyderabad · Pune)
-- 📫 **Reach me:** [aswinsriram268@gmail.com](mailto:aswinsriram268@gmail.com)
-
-<br clear="right"/>
+```yaml
+role:        Software Engineer @ Home Ideas Technologies (Nov 2025 – present)
+focus:       Backend services · REST & WebSocket APIs · Voice AI · RAG / LLM pipelines
+education:   B.Tech CSE, Amrita Vishwa Vidyapeetham (2026)
+research:    ClimaStyle, IEEE I-SMAC 2025 (Nepal)
+open_to:     SWE roles · Bengaluru · Hyderabad · Pune
+```
 
 <!-- ═══════════════════════════ EXPERIENCE ═══════════════════════════ -->
-<h2 align="center">💼 Experience</h2>
+## 💼 Experience
 
 <table>
 <tr>
-<td width="110" align="center"><img src="https://img.icons8.com/fluency/96/briefcase.png" width="60"/></td>
 <td>
 
-### Software Engineer · Home Ideas Technologies
-**Nov 2025 – Present** · Coimbatore, Tamil Nadu
+**Software Engineer · Home Ideas Technologies** &nbsp;&nbsp;<sub>`Nov 2025 – Present` · Coimbatore</sub>
 
-- 🎙️ Build and maintain backend services and REST APIs for **VIGOE**, a real-time **voice & chat SaaS platform** serving **100+ businesses**, integrating WhatsApp, Gemini and OpenAI into AI-call and messaging workflows
+- 🎙️ Build and maintain backend services and REST APIs for **VIGOE**, a real-time **voice & chat SaaS platform**, integrating WhatsApp, Gemini and OpenAI into AI-call and messaging workflows
 - ⚡ Cut real-time response latency from **~5–6 s to 0.6–1 s (~80%)** by profiling and optimizing response handling, backend logic and API call flows
 - 🔎 Built a **BM25-based retrieval pipeline** over the platform's media data and connected **RAG/LLM pipelines** to the Gemini and OpenAI APIs
 - 📱 For **HIT Learn** (700+ Play Store downloads), built real-time voice over **WebSockets** and fixed production bugs (microphone echo, interruption handling)
-- 🛠️ Own work end to end: design, build, test and deploy with **Docker, Git and Linux on AWS**, with code reviews in a 7-developer team
+- 🛠️ Own features end to end: design, build, test and deploy with **Docker, Git and Linux on AWS**, with code reviews in a 7-developer team
 
 </td>
 </tr>
 </table>
 
 <!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
-<h2 align="center">🛠️ Tech Arsenal</h2>
+## 🧰 Tech Stack
 
-<p align="center"><b>💻 Languages</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,mysql&theme=dark" alt="languages"/>
-</p>
-
-<p align="center"><b>⚙️ Backend · APIs · Real-time</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,redis,react,tailwind,supabase&theme=dark" alt="backend"/>
-  <br/>
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-6a11cb?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microservices-2575fc?style=for-the-badge&logo=databricks&logoColor=white"/>
-</p>
-
-<p align="center"><b>☁️ Cloud · DevOps</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,linux,git,github,githubactions&theme=dark" alt="cloud"/>
-</p>
-
-<p align="center"><b>🧠 Applied AI · ML</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG%20%2F%20LLMs-0d1117?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Voice%20AI-ef4444?style=for-the-badge&logo=audiomack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BM25%20Retrieval-f59e0b?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LSTM-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</p>
+<table>
+<tr><td width="170"><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,mysql&theme=dark" height="40"/></td></tr>
+<tr><td><b>Backend & Real-time</b></td><td><img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,redis,react,tailwind,supabase&theme=dark" height="40"/></td></tr>
+<tr><td><b>Cloud & DevOps</b></td><td><img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,linux,git,githubactions&theme=dark" height="40"/></td></tr>
+<tr><td><b>Applied AI</b></td><td>
+<img src="https://img.shields.io/badge/Gemini-0a0f1a?style=for-the-badge&logo=googlegemini&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/OpenAI-0a0f1a?style=for-the-badge&logo=openai&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/RAG%20%2F%20LLMs-0a0f1a?style=for-the-badge&logo=langchain&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/Voice%20AI-0a0f1a?style=for-the-badge&logo=audiomack&logoColor=34d399"/>
+<img src="https://img.shields.io/badge/BM25-0a0f1a?style=for-the-badge&logo=elasticsearch&logoColor=34d399"/>
+<img src="https://img.shields.io/badge/MediaPipe-0a0f1a?style=for-the-badge&logo=google&logoColor=34d399"/>
+</td></tr>
+<tr><td><b>Mobile & APIs</b></td><td>
+<img src="https://img.shields.io/badge/React%20Native-0a0f1a?style=for-the-badge&logo=react&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/WebSockets-0a0f1a?style=for-the-badge&logo=socketdotio&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/REST%20APIs-0a0f1a?style=for-the-badge&logo=swagger&logoColor=34d399"/>
+<img src="https://img.shields.io/badge/Microservices-0a0f1a?style=for-the-badge&logo=kubernetes&logoColor=34d399"/>
+</td></tr>
+</table>
 
 <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
-<h2 align="center">🚀 Highlighted Work</h2>
+## 🚀 Highlighted Work
 
 | | Project | What I did | Stack |
 |:-:|---|---|---|
-| 🎙️ | **VIGOE**: real-time voice & chat SaaS | Backend services and APIs for 100+ businesses; **~80% lower response latency** | Node.js · WebSockets · Gemini · OpenAI · AWS |
+| 🎙️ | **VIGOE**: real-time voice & chat SaaS | Backend services and APIs; **~80% lower response latency** | Node.js · WebSockets · Gemini · OpenAI · AWS |
 | 📱 | **HIT Learn**: AI-powered education app | Mobile and backend features, real-time AI voice; **700+ Play Store downloads** | React Native · TypeScript · Node.js · AWS |
-| 🤟 | **Indian Sign Language Translation** | Hand-landmark pipeline with temporal modeling, mapped to HamNoSys/SiGML for **3D-avatar rendering** (final-year project) | Python · MediaPipe · LSTM |
+| 🤟 | **Indian Sign Language Translation** | Hand-landmark pipeline with temporal modeling, mapped to HamNoSys/SiGML for **3D-avatar rendering** | Python · MediaPipe · LSTM |
 | 👗 | **ClimaStyle**: climate-aware virtual try-on | Prompt-based segmentation research, **published at IEEE I-SMAC 2025** | Python · Computer Vision |
 | 🎮 | **[Build-a-Game Lab](https://aswin-sriram.github.io/build-a-game-lab/)** | Learn-to-code lab: type the key code of 10 games, run them, share them | JavaScript · HTML |
 | 🌾 | **[Om Canvassing Agentz](https://github.com/Aswin-sriram/Om_Agentz)** | Business website for a wholesale grain supplier | React · TypeScript · Tailwind · Supabase |
 
 <p align="center">
-  <a href="https://github.com/Aswin-sriram/build-a-game-lab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aswin-sriram&repo=build-a-game-lab&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6" width="49%"/></a>
-  <a href="https://github.com/Aswin-sriram/Om_Agentz"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aswin-sriram&repo=Om_Agentz&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6" width="49%"/></a>
+  <a href="https://github.com/Aswin-sriram/build-a-game-lab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aswin-sriram&repo=build-a-game-lab&theme=github_dark&bg_color=0a0f1a&title_color=22d3ee&icon_color=34d399&text_color=c9d1d9&border_color=30363d" width="49%"/></a>
+  <a href="https://github.com/Aswin-sriram/Om_Agentz"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aswin-sriram&repo=Om_Agentz&theme=github_dark&bg_color=0a0f1a&title_color=22d3ee&icon_color=34d399&text_color=c9d1d9&border_color=30363d" width="49%"/></a>
 </p>
 
-<!-- ═══════════════════════════ PUBLICATION / EDUCATION / CERTS ═══════════════════════════ -->
-<h2 align="center">📄 Publication · 🎓 Education · 🏅 Certifications</h2>
+<!-- ═══════════════════════════ PUBLICATION / CERTS ═══════════════════════════ -->
+## 📄 Research & Certifications
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 📄 Research
 **ClimaStyle: Climate-Aware Visual Try-On with Prompt-Based Segmentation**
-<br/>9th International Conference on I-SMAC (**IEEE**), Nepal, Oct 2025, *published & presented*
+<br/><sub>9th International Conference on I-SMAC (**IEEE**) · Nepal · Oct 2025 · published & presented</sub>
 
-#### 🎓 Education
-**Amrita Vishwa Vidyapeetham**, Coimbatore
-<br/>B.Tech, Computer Science & Engineering, **2026**
+**B.Tech, Computer Science & Engineering**
+<br/><sub>Amrita Vishwa Vidyapeetham, Coimbatore · 2026</sub>
 <br/><sub>OOP · DSA · Databases · Operating Systems · Computer Networks</sub>
 
 </td>
 <td width="50%" valign="top">
 
-#### 🏅 Certifications
-- ☁️ **Microsoft Azure** AI & Cloud training program (2025)
-- 🤖 **Google Cloud** Agentic AI Day
+- ☁️ **Microsoft Azure**: AI & Cloud training program (2025)
+- 🤖 **Google Cloud**: Agentic AI Day
 - 🧠 **Infosys Springboard**: Deep Learning, NLP
-- 💡 **BCG X** GenAI Job Simulation (Forage)
+- 💡 **BCG X**: GenAI Job Simulation (Forage)
 
 </td>
 </tr>
 </table>
 
 <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
-<h2 align="center">📊 GitHub Analytics</h2>
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aswin-sriram&theme=tokyonight" width="100%" alt="profile summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aswin-sriram&theme=github_dark" width="100%" alt="profile summary"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aswin-sriram&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&rank_icon=github" height="180" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswin-sriram&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&langs_count=8" height="180" alt="top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aswin-sriram&show_icons=true&theme=github_dark&bg_color=0a0f1a&title_color=22d3ee&icon_color=34d399&text_color=c9d1d9&border_color=30363d&rank_icon=github" height="175" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswin-sriram&layout=compact&theme=github_dark&bg_color=0a0f1a&title_color=22d3ee&text_color=c9d1d9&border_color=30363d&langs_count=8" height="175" alt="top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aswin-sriram&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="70%" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=Aswin-sriram&theme=github-dark-blue&background=0A0F1A&border=30363D&stroke=30363D&ring=22D3EE&fire=34D399&currStreakNum=22D3EE&currStreakLabel=22D3EE&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" width="70%" alt="streak"/>
 </p>
 
-<h3 align="center">🏆 Trophies</h3>
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Aswin-sriram&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=Aswin-sriram&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies"/>
 </p>
 
-<!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
-<h2 align="center">🐍 Watch My Contributions Get Eaten</h2>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aswin-sriram/Aswin-sriram/output/github-contribution-grid-snake-dark.svg"/>
@@ -174,20 +156,13 @@ I enjoy hunting down performance problems, keeping production services healthy, 
   </picture>
 </p>
 
-<!-- ═══════════════════════════ CONNECT ═══════════════════════════ -->
-<h2 align="center">🤝 Let's Connect</h2>
-
+<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/aswinsrirams/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:aswinsriram268@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://aswin-sriram.github.io/build-a-game-lab/"><img src="https://img.shields.io/badge/Live%20Demo-Build--a--Game%20Lab-8b5cf6?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
-  <a href="https://github.com/Aswin-sriram"><img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aswinsrirams/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0a0f1a?style=for-the-badge&logo=linkedin&logoColor=22d3ee"/></a>
+  <a href="mailto:aswinsriram268@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-0a0f1a?style=for-the-badge&logo=gmail&logoColor=34d399"/></a>
+  <a href="https://aswin-sriram.github.io/build-a-game-lab/"><img src="https://img.shields.io/badge/Live%20Demo-0a0f1a?style=for-the-badge&logo=githubpages&logoColor=22d3ee"/></a>
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,60:6a11cb,100:0d1117&height=140&section=footer&animation=twinkling" width="100%"/>
+  <img src="./assets/footer.svg" width="100%" alt="Thanks for visiting"/>
 </p>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" role="img" aria-label="Thanks for visiting">
+  <defs>
+    <linearGradient id="w1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/><stop offset="100%" stop-color="#34d399"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .a { animation: slide 9s linear infinite; }
+    .b { animation: slide 14s linear infinite reverse; }
+    @keyframes slide { from { transform: translateX(0); } to { transform: translateX(-1200px); } }
+    .t { font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, Menlo, monospace; animation: glow 3s ease-in-out infinite; }
+    @keyframes glow { 0%,100% { opacity: 0.55; } 50% { opacity: 1; } }
+  </style>
+  <g class="b" opacity="0.25">
+    <path d="M0 80 Q150 50 300 80 T600 80 T900 80 T1200 80 T1500 80 T1800 80 T2100 80 T2400 80 V140 H0Z" fill="#34d399"/>
+  </g>
+  <g class="a" opacity="0.45">
+    <path d="M0 95 Q150 125 300 95 T600 95 T900 95 T1200 95 T1500 95 T1800 95 T2100 95 T2400 95 V140 H0Z" fill="url(#w1)"/>
+  </g>
+  <text x="600" y="48" text-anchor="middle" class="t" font-size="18" fill="#22d3ee">Thanks for stopping by. Let's build something great together.</text>
+</svg>
