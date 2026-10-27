@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aswin-sriram&theme=github-dark-blue&background=0A0F1A&border=1F2A3A&stroke=1F2A3A&ring=22D3EE&fire=34D399&currStreakNum=22D3EE&currStreakLabel=22D3EE&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E&border_radius=16" width="62%" alt="Streak"/>
+  <img src="https://raw.githubusercontent.com/Aswin-sriram/Aswin-sriram/output/stats.svg" width="100%" alt="Contribution stats including private work"/>
 </p>
 
 <p align="center">
