@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="434" viewBox="0 0 1200 434" role="img" aria-label="Tech stack">
+  <defs>
+    <linearGradient id="gk" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/><stop offset="50%" stop-color="#34d399"/><stop offset="100%" stop-color="#22d3ee"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="bk" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity=".5"/><stop offset="50%" stop-color="#1f2a3a"/><stop offset="100%" stop-color="#34d399" stop-opacity=".5"/>
+    </linearGradient>
+    <linearGradient id="sk" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0"/><stop offset="50%" stop-color="#22d3ee" stop-opacity=".9"/><stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="pk" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#22d3ee" stroke-opacity=".05"/>
+    </pattern>
+    <filter id="fk" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="55"/></filter>
+    <clipPath id="ck"><rect x="1" y="1" width="1198" height="432" rx="20"/></clipPath>
+  </defs>
+  <style>
+    .sans { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+    .mono { font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+    .fade { opacity: 0; animation: fadeUp .8s ease-out forwards; }
+    @keyframes fadeUp { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+    .orb { animation: drift 14s ease-in-out infinite alternate; }
+    @keyframes drift { to { transform: translate(90px, 30px); } }
+    .pulse { animation: pulse 1.8s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes pulse { 0%,100% { opacity: 1; transform: scale(1); } 50% { opacity: .35; transform: scale(1.7); } }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <g clip-path="url(#ck)">
+    <rect width="1200" height="434" fill="#0a0f1a"/>
+    <rect width="1200" height="434" fill="url(#pk)"/>
+    <circle class="orb" cx="120" cy="369" r="195" fill="#34d399" opacity=".16" filter="url(#fk)"/>
+    <rect x="-300" y="0" width="300" height="2" fill="url(#sk)">
+      <animate attributeName="x" from="-300" to="1200" dur="5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <rect x="1" y="1" width="1198" height="432" rx="20" fill="none" stroke="url(#bk)" stroke-width="1.5"/>
+  <text x="48" y="58" class="mono fade" style="animation-delay:0.0s" font-size="16" fill="#22d3ee" letter-spacing="2">// tech stack</text>
+  <text x="48" y="100" class="sans fade" style="animation-delay:0.1s" font-size="34" font-weight="700" fill="#e6edf3">Tools I build with</text>
+  <text x="48" y="171" class="mono fade" style="animation-delay:0.30s" font-size="15" fill="#22d3ee" letter-spacing="1.5">LANGUAGES</text>
+  <g class="fade" style="animation-delay:0.30s"><rect x="270" y="150" width="86" height="30" rx="15" fill="#22d3ee" fill-opacity=".08" stroke="#22d3ee" stroke-opacity=".35"/><text x="313" y="170" text-anchor="middle" class="mono" font-size="16" fill="#e6edf3">Python</text></g>
+  <g class="fade" style="animation-delay:0.35s"><rect x="366" y="150" width="124" height="30" rx="15" fill="#22d3ee" fill-opacity=".08" stroke="#22d3ee" stroke-opacity=".35"/><text x="428" y="170" text-anchor="middle" class="mono" font-size="16" fill="#e6edf3">TypeScript</text></g>
+  <g class="fade" style="animation-delay:0.40s"><rect x="500" y="150" width="124" height="30" rx="15" fill="#22d3ee" fill-opacity=".08" stroke="#22d3ee" stroke-opacity=".35"/><text x="562" y="170" text-anchor="middle" class="mono" font-size="16" fill="#e6edf3">JavaScript</text></g>
+  <g class="fade" style="animation-delay:0.45s"><rect x="634" y="150" width="66" height="30" rx="15" fill="#22d3ee" fill-opacity=".08" stroke="#22d3ee" stroke-opacity=".35"/><text x="667" y="170" text-anchor="middle" class="mono" font-size="16" fill="#e6edf3">Java</text></g>
+  <g class="fade" style="animation-delay:0.50s"><rect x="710" y="150" width="57" height="30" rx="15" fill="#22d3ee" fill-opacity=".08" stroke="#22d3ee" stroke-opacity=".35"/><text x="738" y="170" text-anchor="middle" class="mono" font-size="16" fill="#e6edf3">C++</text></g>
+  <g class="fade" style="animation-delay:0.55s"><rect x="777" y="150" width="57" height="30" rx="15" fill="#22d3ee" fill-opacity=".08" stroke="#22d3ee" stroke-opacity=".35"/><text x="805" y="170" text-anchor="middle" class="mono" font-size="16" fill="#e6edf3">SQL</text></g>
+  <text x="48" y="223" class="mono fade" style="animation-delay:0.50s" font-size="15" fill="#22d3ee" letter-spacing="1.5">BACKEND</text>
+  <g class="fade" style="animation-delay:0.50s"><rect x="270" y="202" width="95" height="30" rx="15" fill="#22d3ee" fill-opacity=".08" stroke="#22d3ee" stroke-opacity=".35"/><text x="318" y="222" text-anchor="middle" class="mono" font-size="16" fill="#e6edf3">FastAPI</text></g>
+  <g class="fade" style="animation-delay:0.55s"><rect x="375" y="202" width="95" height="30" rx="15" fill="#22d3ee" fill-opacity=".08" stroke="#22d3ee" stroke-opacity=".35"/><text x="423" y="222" text-anchor="middle" class="mono" font-size="16" fill="#e6edf3">Node.js</text></g>
+  <g class="fade" style="animation-delay:0.60s"><rect x="480" y="202" width="95" height="30" rx="15" fill="#22d3ee" fill-opacity=".08" stroke="#22d3ee" stroke-opacity=".35"/><text x="528" y="222" text-anchor="middle" class="mono" font-size="16" fill="#e6edf3">Express</text></g>
+  <g class="fade" style="animation-delay:0.65s"><rect x="586" y="202" width="114" height="30" rx="15" fill="#22d3ee" fill-opacity=".08" stroke="#22d3ee" stroke-opacity=".35"/><text x="643" y="222" text-anchor="middle" class="mono" font-size="16" fill="#e6edf3">REST APIs</text></g>
+  <g class="fade" style="animation-delay:0.70s"><rect x="710" y="202" width="124" height="30" rx="15" fill="#22d3ee" fill-opacity=".08" stroke="#22d3ee" stroke-opacity=".35"/><text x="772" y="222" text-anchor="middle" class="mono" font-size="16" fill="#e6edf3">WebSockets</text></g>
+  <g class="fade" style="animation-delay:0.75s"><rect x="844" y="202" width="153" height="30" rx="15" fill="#22d3ee" fill-opacity=".08" stroke="#22d3ee" stroke-opacity=".35"/><text x="920" y="222" text-anchor="middle" class="mono" font-size="16" fill="#e6edf3">Microservices</text></g>
+  <g class="fade" style="animation-delay:0.80s"><rect x="1007" y="202" width="76" height="30" rx="15" fill="#22d3ee" fill-opacity=".08" stroke="#22d3ee" stroke-opacity=".35"/><text x="1045" y="222" text-anchor="middle" class="mono" font-size="16" fill="#e6edf3">Redis</text></g>
+  <text x="48" y="275" class="mono fade" style="animation-delay:0.70s" font-size="15" fill="#22d3ee" letter-spacing="1.5">WEB &amp; MOBILE</text>
+  <g class="fade" style="animation-delay:0.70s"><rect x="270" y="254" width="76" height="30" rx="15" fill="#22d3ee" fill-opacity=".08" stroke="#22d3ee" stroke-opacity=".35"/><text x="308" y="274" text-anchor="middle" class="mono" font-size="16" fill="#e6edf3">React</text></g>
+  <g class="fade" style="animation-delay:0.75s"><rect x="356" y="254" width="143" height="30" rx="15" fill="#22d3ee" fill-opacity=".08" stroke="#22d3ee" stroke-opacity=".35"/><text x="428" y="274" text-anchor="middle" class="mono" font-size="16" fill="#e6edf3">React Native</text></g>
+  <g class="fade" style="animation-delay:0.80s"><rect x="509" y="254" width="143" height="30" rx="15" fill="#22d3ee" fill-opacity=".08" stroke="#22d3ee" stroke-opacity=".35"/><text x="581" y="274" text-anchor="middle" class="mono" font-size="16" fill="#e6edf3">Tailwind CSS</text></g>
+  <g class="fade" style="animation-delay:0.85s"><rect x="662" y="254" width="105" height="30" rx="15" fill="#22d3ee" fill-opacity=".08" stroke="#22d3ee" stroke-opacity=".35"/><text x="715" y="274" text-anchor="middle" class="mono" font-size="16" fill="#e6edf3">Supabase</text></g>
+  <text x="48" y="327" class="mono fade" style="animation-delay:0.90s" font-size="15" fill="#22d3ee" letter-spacing="1.5">CLOUD &amp; DEVOPS</text>
+  <g class="fade" style="animation-delay:0.90s"><rect x="270" y="306" width="57" height="30" rx="15" fill="#22d3ee" fill-opacity=".08" stroke="#22d3ee" stroke-opacity=".35"/><text x="298" y="326" text-anchor="middle" class="mono" font-size="16" fill="#e6edf3">AWS</text></g>
+  <g class="fade" style="animation-delay:0.95s"><rect x="337" y="306" width="57" height="30" rx="15" fill="#22d3ee" fill-opacity=".08" stroke="#22d3ee" stroke-opacity=".35"/><text x="365" y="326" text-anchor="middle" class="mono" font-size="16" fill="#e6edf3">GCP</text></g>
+  <g class="fade" style="animation-delay:1.00s"><rect x="404" y="306" width="76" height="30" rx="15" fill="#22d3ee" fill-opacity=".08" stroke="#22d3ee" stroke-opacity=".35"/><text x="442" y="326" text-anchor="middle" class="mono" font-size="16" fill="#e6edf3">Azure</text></g>
+  <g class="fade" style="animation-delay:1.05s"><rect x="490" y="306" width="86" height="30" rx="15" fill="#22d3ee" fill-opacity=".08" stroke="#22d3ee" stroke-opacity=".35"/><text x="532" y="326" text-anchor="middle" class="mono" font-size="16" fill="#e6edf3">Docker</text></g>
+  <g class="fade" style="animation-delay:1.10s"><rect x="585" y="306" width="76" height="30" rx="15" fill="#22d3ee" fill-opacity=".08" stroke="#22d3ee" stroke-opacity=".35"/><text x="623" y="326" text-anchor="middle" class="mono" font-size="16" fill="#e6edf3">Linux</text></g>
+  <g class="fade" style="animation-delay:1.15s"><rect x="671" y="306" width="57" height="30" rx="15" fill="#22d3ee" fill-opacity=".08" stroke="#22d3ee" stroke-opacity=".35"/><text x="700" y="326" text-anchor="middle" class="mono" font-size="16" fill="#e6edf3">Git</text></g>
+  <g class="fade" style="animation-delay:1.20s"><rect x="738" y="306" width="76" height="30" rx="15" fill="#22d3ee" fill-opacity=".08" stroke="#22d3ee" stroke-opacity=".35"/><text x="776" y="326" text-anchor="middle" class="mono" font-size="16" fill="#e6edf3">CI/CD</text></g>
+  <text x="48" y="379" class="mono fade" style="animation-delay:1.10s" font-size="15" fill="#22d3ee" letter-spacing="1.5">APPLIED AI</text>
+  <g class="fade" style="animation-delay:1.10s"><rect x="270" y="358" width="66" height="30" rx="15" fill="#22d3ee" fill-opacity=".08" stroke="#22d3ee" stroke-opacity=".35"/><text x="303" y="378" text-anchor="middle" class="mono" font-size="16" fill="#e6edf3">LLMs</text></g>
+  <g class="fade" style="animation-delay:1.15s"><rect x="346" y="358" width="57" height="30" rx="15" fill="#22d3ee" fill-opacity=".08" stroke="#22d3ee" stroke-opacity=".35"/><text x="375" y="378" text-anchor="middle" class="mono" font-size="16" fill="#e6edf3">RAG</text></g>
+  <g class="fade" style="animation-delay:1.20s"><rect x="413" y="358" width="124" height="30" rx="15" fill="#22d3ee" fill-opacity=".08" stroke="#22d3ee" stroke-opacity=".35"/><text x="475" y="378" text-anchor="middle" class="mono" font-size="16" fill="#e6edf3">Gemini API</text></g>
+  <g class="fade" style="animation-delay:1.25s"><rect x="547" y="358" width="124" height="30" rx="15" fill="#22d3ee" fill-opacity=".08" stroke="#22d3ee" stroke-opacity=".35"/><text x="609" y="378" text-anchor="middle" class="mono" font-size="16" fill="#e6edf3">OpenAI API</text></g>
+  <g class="fade" style="animation-delay:1.30s"><rect x="681" y="358" width="105" height="30" rx="15" fill="#22d3ee" fill-opacity=".08" stroke="#22d3ee" stroke-opacity=".35"/><text x="734" y="378" text-anchor="middle" class="mono" font-size="16" fill="#e6edf3">Voice AI</text></g>
+  <g class="fade" style="animation-delay:1.35s"><rect x="796" y="358" width="66" height="30" rx="15" fill="#22d3ee" fill-opacity=".08" stroke="#22d3ee" stroke-opacity=".35"/><text x="829" y="378" text-anchor="middle" class="mono" font-size="16" fill="#e6edf3">BM25</text></g>
+  <g class="fade" style="animation-delay:1.40s"><rect x="872" y="358" width="114" height="30" rx="15" fill="#22d3ee" fill-opacity=".08" stroke="#22d3ee" stroke-opacity=".35"/><text x="930" y="378" text-anchor="middle" class="mono" font-size="16" fill="#e6edf3">MediaPipe</text></g>
+  <g class="fade" style="animation-delay:1.45s"><rect x="997" y="358" width="66" height="30" rx="15" fill="#22d3ee" fill-opacity=".08" stroke="#22d3ee" stroke-opacity=".35"/><text x="1030" y="378" text-anchor="middle" class="mono" font-size="16" fill="#e6edf3">LSTM</text></g>
+</svg>

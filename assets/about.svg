@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="About Aswin">
+  <defs>
+    <linearGradient id="ga" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/><stop offset="50%" stop-color="#34d399"/><stop offset="100%" stop-color="#22d3ee"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="ba" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity=".5"/><stop offset="50%" stop-color="#1f2a3a"/><stop offset="100%" stop-color="#34d399" stop-opacity=".5"/>
+    </linearGradient>
+    <linearGradient id="sa" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0"/><stop offset="50%" stop-color="#22d3ee" stop-opacity=".9"/><stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="pa" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#22d3ee" stroke-opacity=".05"/>
+    </pattern>
+    <filter id="fa" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="55"/></filter>
+    <clipPath id="ca"><rect x="1" y="1" width="1198" height="328" rx="20"/></clipPath>
+  </defs>
+  <style>
+    .sans { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+    .mono { font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+    .fade { opacity: 0; animation: fadeUp .8s ease-out forwards; }
+    @keyframes fadeUp { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+    .orb { animation: drift 14s ease-in-out infinite alternate; }
+    @keyframes drift { to { transform: translate(90px, 30px); } }
+    .pulse { animation: pulse 1.8s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes pulse { 0%,100% { opacity: 1; transform: scale(1); } 50% { opacity: .35; transform: scale(1.7); } }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <g clip-path="url(#ca)">
+    <rect width="1200" height="330" fill="#0a0f1a"/>
+    <rect width="1200" height="330" fill="url(#pa)"/>
+    <circle class="orb" cx="180" cy="297" r="148" fill="#34d399" opacity=".16" filter="url(#fa)"/>
+    <rect x="-300" y="0" width="300" height="2" fill="url(#sa)">
+      <animate attributeName="x" from="-300" to="1200" dur="5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <rect x="1" y="1" width="1198" height="328" rx="20" fill="none" stroke="url(#ba)" stroke-width="1.5"/>
+  <text x="48" y="58" class="mono fade" style="animation-delay:0.0s" font-size="16" fill="#22d3ee" letter-spacing="2">// about</text>
+  <text x="48" y="100" class="sans fade" style="animation-delay:0.1s" font-size="34" font-weight="700" fill="#e6edf3">Hi, I'm Aswin 👋</text>
+  <text x="48" y="150" class="sans fade" style="animation-delay:0.30s" font-size="21" fill="#c9d1d9">I'm a Software Engineer from Coimbatore, India, with</text>
+  <text x="48" y="182" class="sans fade" style="animation-delay:0.38s" font-size="21" fill="#c9d1d9">about a year of production experience building</text>
+  <text x="48" y="214" class="sans fade" style="animation-delay:0.46s" font-size="21" fill="#c9d1d9">backend services, real-time APIs and applied-AI</text>
+  <text x="48" y="246" class="sans fade" style="animation-delay:0.54s" font-size="21" fill="#c9d1d9">workflows for a live SaaS platform. I like profiling</text>
+  <text x="48" y="278" class="sans fade" style="animation-delay:0.62s" font-size="21" fill="#c9d1d9">slow systems until they're fast, keeping production</text>
+  <text x="48" y="310" class="sans fade" style="animation-delay:0.70s" font-size="21" fill="#c9d1d9">healthy, and shipping features across the whole</text>
+  <text x="48" y="342" class="sans fade" style="animation-delay:0.78s" font-size="21" fill="#c9d1d9">stack.</text>
+  <g class="fade" style="animation-delay:.4s">
+    <rect x="660" y="40" width="500" height="250" rx="14" fill="#0d1424" stroke="#1f2a3a"/>
+    <circle cx="682" cy="62" r="6" fill="#ff5f56"/><circle cx="702" cy="62" r="6" fill="#ffbd2e"/><circle cx="722" cy="62" r="6" fill="#27c93f"/>
+    <text x="910.0" y="67" text-anchor="middle" class="mono" font-size="13" fill="#8b949e">aswin.yaml</text>
+    <line x1="660" y1="82" x2="1160" y2="82" stroke="#1f2a3a"/>
+  </g>
+  <text x="684" y="118" class="mono fade" style="animation-delay:0.80s" font-size="16"><tspan fill="#34d399">role</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#e6edf3">Software Engineer</tspan></text>
+  <text x="684" y="147" class="mono fade" style="animation-delay:1.05s" font-size="16"><tspan fill="#34d399">company</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#e6edf3">Home Ideas Technologies</tspan></text>
+  <text x="684" y="176" class="mono fade" style="animation-delay:1.30s" font-size="16"><tspan fill="#34d399">focus</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#e6edf3">Backend · Voice AI · RAG</tspan></text>
+  <text x="684" y="205" class="mono fade" style="animation-delay:1.55s" font-size="16"><tspan fill="#34d399">research</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#e6edf3">IEEE I-SMAC 2025</tspan></text>
+  <text x="684" y="234" class="mono fade" style="animation-delay:1.80s" font-size="16"><tspan fill="#34d399">open_to</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#e6edf3">SWE roles</tspan></text>
+  <text x="684" y="263" class="mono fade" style="animation-delay:2.05s" font-size="16"><tspan fill="#34d399">relocate</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#e6edf3">Bengaluru · Hyderabad · Pune</tspan></text>
+  <rect class="cursor" x="684" y="278" width="9" height="18" fill="#22d3ee"/>
+</svg>

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="378" viewBox="0 0 1200 378" role="img" aria-label="Research and education">
+  <defs>
+    <linearGradient id="gr" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/><stop offset="50%" stop-color="#34d399"/><stop offset="100%" stop-color="#22d3ee"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="br" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity=".5"/><stop offset="50%" stop-color="#1f2a3a"/><stop offset="100%" stop-color="#34d399" stop-opacity=".5"/>
+    </linearGradient>
+    <linearGradient id="sr" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0"/><stop offset="50%" stop-color="#22d3ee" stop-opacity=".9"/><stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="pr" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#22d3ee" stroke-opacity=".05"/>
+    </pattern>
+    <filter id="fr" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="55"/></filter>
+    <clipPath id="cr"><rect x="1" y="1" width="1198" height="376" rx="20"/></clipPath>
+  </defs>
+  <style>
+    .sans { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+    .mono { font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+    .fade { opacity: 0; animation: fadeUp .8s ease-out forwards; }
+    @keyframes fadeUp { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+    .orb { animation: drift 14s ease-in-out infinite alternate; }
+    @keyframes drift { to { transform: translate(90px, 30px); } }
+    .pulse { animation: pulse 1.8s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes pulse { 0%,100% { opacity: 1; transform: scale(1); } 50% { opacity: .35; transform: scale(1.7); } }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <g clip-path="url(#cr)">
+    <rect width="1200" height="378" fill="#0a0f1a"/>
+    <rect width="1200" height="378" fill="url(#pr)"/>
+    <circle class="orb" cx="1020" cy="340" r="170" fill="#34d399" opacity=".16" filter="url(#fr)"/>
+    <rect x="-300" y="0" width="300" height="2" fill="url(#sr)">
+      <animate attributeName="x" from="-300" to="1200" dur="5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <rect x="1" y="1" width="1198" height="376" rx="20" fill="none" stroke="url(#br)" stroke-width="1.5"/>
+  <text x="48" y="58" class="mono fade" style="animation-delay:0.0s" font-size="16" fill="#22d3ee" letter-spacing="2">// research &amp; education</text>
+  <text x="48" y="100" class="sans fade" style="animation-delay:0.1s" font-size="34" font-weight="700" fill="#e6edf3">Research, education &amp; certifications</text>
+  <text x="48" y="160" class="mono fade" style="animation-delay:.2s" font-size="14" fill="#34d399" letter-spacing="2">PUBLICATION</text>
+  <text x="48" y="192" class="sans fade" style="animation-delay:.3s" font-size="21" font-weight="600" fill="#e6edf3">ClimaStyle: Climate-Aware Visual Try-On with</text>
+  <text x="48" y="220" class="sans fade" style="animation-delay:.3s" font-size="21" font-weight="600" fill="#e6edf3">Prompt-Based Segmentation</text>
+  <text x="48" y="248" class="mono fade" style="animation-delay:.35s" font-size="15" fill="#8b949e">9th Int'l Conference on I-SMAC (IEEE) · Nepal · Oct 2025</text>
+  <text x="48" y="292" class="mono fade" style="animation-delay:.4s" font-size="14" fill="#34d399" letter-spacing="2">EDUCATION</text>
+  <text x="48" y="322" class="sans fade" style="animation-delay:.45s" font-size="21" font-weight="600" fill="#e6edf3">B.Tech, Computer Science &amp; Engineering</text>
+  <text x="48" y="348" class="mono fade" style="animation-delay:.5s" font-size="15" fill="#8b949e">Amrita Vishwa Vidyapeetham, Coimbatore · 2026</text>
+  <text x="680" y="160" class="mono fade" style="animation-delay:.2s" font-size="14" fill="#34d399" letter-spacing="2">CERTIFICATIONS</text>
+  <g class="fade" style="animation-delay:0.35s"><rect x="680" y="178" width="472" height="30" rx="8" fill="#22d3ee" fill-opacity=".06" stroke="#1f2a3a"/><circle cx="696" cy="193" r="4" fill="#22d3ee"/><text x="710" y="199" class="sans" font-size="17"><tspan fill="#e6edf3" font-weight="600">Microsoft Azure</tspan><tspan fill="#8b949e">  ·  AI &amp; Cloud training program</tspan></text></g>
+  <g class="fade" style="animation-delay:0.47s"><rect x="680" y="214" width="472" height="30" rx="8" fill="#22d3ee" fill-opacity=".06" stroke="#1f2a3a"/><circle cx="696" cy="229" r="4" fill="#22d3ee"/><text x="710" y="235" class="sans" font-size="17"><tspan fill="#e6edf3" font-weight="600">Google Cloud</tspan><tspan fill="#8b949e">  ·  Agentic AI Day</tspan></text></g>
+  <g class="fade" style="animation-delay:0.59s"><rect x="680" y="250" width="472" height="30" rx="8" fill="#22d3ee" fill-opacity=".06" stroke="#1f2a3a"/><circle cx="696" cy="265" r="4" fill="#22d3ee"/><text x="710" y="271" class="sans" font-size="17"><tspan fill="#e6edf3" font-weight="600">Infosys Springboard</tspan><tspan fill="#8b949e">  ·  Deep Learning, NLP</tspan></text></g>
+  <g class="fade" style="animation-delay:0.71s"><rect x="680" y="286" width="472" height="30" rx="8" fill="#22d3ee" fill-opacity=".06" stroke="#1f2a3a"/><circle cx="696" cy="301" r="4" fill="#22d3ee"/><text x="710" y="307" class="sans" font-size="17"><tspan fill="#e6edf3" font-weight="600">BCG X</tspan><tspan fill="#8b949e">  ·  GenAI Job Simulation</tspan></text></g>
+</svg>

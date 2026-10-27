@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="330" viewBox="0 0 600 330" role="img" aria-label="ClimaStyle">
+  <defs>
+    <linearGradient id="gp3" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/><stop offset="50%" stop-color="#34d399"/><stop offset="100%" stop-color="#22d3ee"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="bp3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity=".5"/><stop offset="50%" stop-color="#1f2a3a"/><stop offset="100%" stop-color="#34d399" stop-opacity=".5"/>
+    </linearGradient>
+    <linearGradient id="sp3" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0"/><stop offset="50%" stop-color="#22d3ee" stop-opacity=".9"/><stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="pp3" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#22d3ee" stroke-opacity=".05"/>
+    </pattern>
+    <filter id="fp3" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="55"/></filter>
+    <clipPath id="cp3"><rect x="1" y="1" width="598" height="328" rx="20"/></clipPath>
+  </defs>
+  <style>
+    .sans { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+    .mono { font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+    .fade { opacity: 0; animation: fadeUp .8s ease-out forwards; }
+    @keyframes fadeUp { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+    .orb { animation: drift 14s ease-in-out infinite alternate; }
+    @keyframes drift { to { transform: translate(90px, 30px); } }
+    .pulse { animation: pulse 1.8s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes pulse { 0%,100% { opacity: 1; transform: scale(1); } 50% { opacity: .35; transform: scale(1.7); } }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <g clip-path="url(#cp3)">
+    <rect width="600" height="330" fill="#0a0f1a"/>
+    <rect width="600" height="330" fill="url(#pp3)"/>
+    <circle class="orb" cx="570" cy="330" r="148" fill="#34d399" opacity=".16" filter="url(#fp3)"/>
+    <rect x="-300" y="0" width="300" height="2" fill="url(#sp3)">
+      <animate attributeName="x" from="-300" to="600" dur="5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <rect x="1" y="1" width="598" height="328" rx="20" fill="none" stroke="url(#bp3)" stroke-width="1.5"/>
+  <text x="36" y="52" class="mono fade" font-size="13" fill="#22d3ee" letter-spacing="1.8">RESEARCH · IEEE I-SMAC 2025</text>
+  <text x="34" y="100" class="sans fade" style="animation-delay:.1s" font-size="32" font-weight="800" fill="url(#gp3)">ClimaStyle</text>
+  <text x="36" y="146" class="sans fade" style="animation-delay:0.20s" font-size="19" fill="#c9d1d9">Climate-aware visual try-on using prompt-based</text>
+  <text x="36" y="174" class="sans fade" style="animation-delay:0.26s" font-size="19" fill="#c9d1d9">segmentation. Published and presented in Nepal, Oct</text>
+  <text x="36" y="202" class="sans fade" style="animation-delay:0.32s" font-size="19" fill="#c9d1d9">2025.</text>
+  <g class="fade" style="animation-delay:.4s">
+    <rect x="392" y="30" width="172" height="32" rx="16" fill="#34d399" fill-opacity=".12" stroke="#34d399" stroke-opacity=".5"/>
+    <circle class="pulse" cx="410" cy="46" r="4.5" fill="#34d399"/>
+    <text x="422" y="51" class="mono" font-size="15" font-weight="600" fill="#34d399">IEEE published</text>
+  </g>
+  <g class="fade" style="animation-delay:0.50s"><rect x="36" y="264" width="82" height="30" rx="15" fill="#22d3ee" fill-opacity=".08" stroke="#22d3ee" stroke-opacity=".35"/><text x="77" y="284" text-anchor="middle" class="mono" font-size="15" fill="#e6edf3">Python</text></g>
+  <g class="fade" style="animation-delay:0.56s"><rect x="128" y="264" width="163" height="30" rx="15" fill="#22d3ee" fill-opacity=".08" stroke="#22d3ee" stroke-opacity=".35"/><text x="210" y="284" text-anchor="middle" class="mono" font-size="15" fill="#e6edf3">Computer Vision</text></g>
+</svg>

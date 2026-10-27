@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="96" viewBox="0 0 380 96" role="img" aria-label="LinkedIn">
+  <defs>
+    <linearGradient id="gn0" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/><stop offset="50%" stop-color="#34d399"/><stop offset="100%" stop-color="#22d3ee"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="bn0" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity=".5"/><stop offset="50%" stop-color="#1f2a3a"/><stop offset="100%" stop-color="#34d399" stop-opacity=".5"/>
+    </linearGradient>
+    <linearGradient id="sn0" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0"/><stop offset="50%" stop-color="#22d3ee" stop-opacity=".9"/><stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="pn0" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#22d3ee" stroke-opacity=".05"/>
+    </pattern>
+    <filter id="fn0" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="55"/></filter>
+    <clipPath id="cn0"><rect x="1" y="1" width="378" height="94" rx="20"/></clipPath>
+  </defs>
+  <style>
+    .sans { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+    .mono { font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+    .fade { opacity: 0; animation: fadeUp .8s ease-out forwards; }
+    @keyframes fadeUp { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+    .orb { animation: drift 14s ease-in-out infinite alternate; }
+    @keyframes drift { to { transform: translate(90px, 30px); } }
+    .pulse { animation: pulse 1.8s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes pulse { 0%,100% { opacity: 1; transform: scale(1); } 50% { opacity: .35; transform: scale(1.7); } }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <g clip-path="url(#cn0)">
+    <rect width="380" height="96" fill="#0a0f1a"/>
+    <rect width="380" height="96" fill="url(#pn0)"/>
+    <circle class="orb" cx="380" cy="48" r="43" fill="#34d399" opacity=".16" filter="url(#fn0)"/>
+    <rect x="-300" y="0" width="300" height="2" fill="url(#sn0)">
+      <animate attributeName="x" from="-300" to="380" dur="5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <rect x="1" y="1" width="378" height="94" rx="20" fill="none" stroke="url(#bn0)" stroke-width="1.5"/>
+  <text x="32" y="44" class="sans" font-size="24" font-weight="700" fill="#e6edf3">LinkedIn</text>
+  <text x="32" y="72" class="mono" font-size="15" fill="#22d3ee">/in/aswinsrirams</text>
+  <text x="344" y="58" text-anchor="end" class="sans" font-size="30" fill="#22d3ee">↗<animate attributeName="opacity" values="1;.4;1" dur="2s" repeatCount="indefinite"/></text>
+</svg>
