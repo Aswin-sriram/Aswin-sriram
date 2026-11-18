@@ -170,6 +170,13 @@ def render(user, days, today):
   <text x="720" y="96" class="sans fade" font-size="30" font-weight="800" fill="url(#g)">{sum(days.get(start + dt.timedelta(days=i), 0) for i in range(weeks * 7)):,}</text>
   <text x="720" y="122" class="sans fade" font-size="16" fill="{MUTED}">contributions in 26 weeks</text>
   <g transform="translate(0,-60)">{''.join(cells)}</g>
+
+  <g class="fade" style="animation-delay:.8s">
+    <rect x="720" y="282" width="432" height="52" rx="10" fill="{CYAN}" fill-opacity=".06" stroke="{BORDER}"/>
+    <rect x="720" y="282" width="3" height="52" rx="1.5" fill="{CYAN}"/>
+    <text x="736" y="303" class="mono" font-size="13" fill="{TEXT}"><tspan fill="{CYAN}" font-weight="700">+</tspan> Day-to-day work at Home Ideas Technologies</text>
+    <text x="736" y="323" class="mono" font-size="13" fill="{MUTED}">  happens in private repos on a work account</text>
+  </g>
 </svg>
 """
 
